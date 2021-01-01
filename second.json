@@ -38,6 +38,12 @@
          "id":3,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"asdf-second"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
